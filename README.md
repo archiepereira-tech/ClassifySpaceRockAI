@@ -6,3 +6,6 @@ Technologies include:
 - Jupyter Notebook on Visual Studio Code
 - Anaconda
 - Artifical Intelligence
+
+
+*[This project was built with a NASA-inspired learning path from Microsoft Learn]*(https://learn.microsoft.com/api/achievements/share/en-us/ArchiePereira/NZ9VZBGF?sharingId=341B516DF450B5D4)
